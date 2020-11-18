@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058365368457",
+    "firebase_url": "https://realwms-45a90.firebaseio.com",
+    "project_id": "realwms-45a90",
+    "storage_bucket": "realwms-45a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058365368457:android:4f95ffa939effa61d83e58",
+        "android_client_info": {
+          "package_name": "org.techtown.realwms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058365368457-a9d95p4ommlp4obj2q2snj7uribo7hed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.realwms",
+            "certificate_hash": "a37f07a6f002de6d257196b1c8f570db835fede6"
+          }
+        },
+        {
+          "client_id": "1058365368457-93n2emniicb5m5fhtlvqbn85svv4jpr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD58Uvr6UYs-JQHmpcFRDXqoiKoMPaH94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058365368457-93n2emniicb5m5fhtlvqbn85svv4jpr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
